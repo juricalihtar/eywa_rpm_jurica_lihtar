@@ -1,0 +1,120 @@
+[
+ {
+  "company" : {
+    "isClient" : false,
+    "isSupplier" : true,
+    "name": "ABATON d.o.o.",
+    "oib": "55958976372",
+    "eori" : "-",
+    "vat" : "-",
+    "iban": "-",
+    "address" : {
+     "street" : "Zagrebačka 12",
+     "city" : "Zagreb",
+     "country" : "Hrvatska"
+    },
+    "contactPersons" :
+    [
+     {"firstName": "",
+      "lastName" : "",
+      "phoneNumber": "",
+      "mobilePhoneNumber": "",
+      "email": ""
+    }
+   ]
+  }
+ },
+  {
+    "company" : {
+      "isClient" : false,
+      "isSupplier" : true,
+      "name": "New company d.o.o.",
+      "oib": "55958976372",
+      "eori" : "-",
+      "vat" : "-",
+      "iban": "-",
+      "address" : {
+        "street" : "Savska cesta 15",
+        "city" : "Zagreb",
+        "country" : "Njemačka"
+      },
+      "contactPersons" :
+      [
+        {"firstName": "Ivan",
+          "lastName" : "Horvat",
+          "phoneNumber": "01515415",
+          "mobilePhoneNumber": "",
+          "email": "ivan.horvat@newcompany.hr"
+        }
+      ]
+    }
+  },
+  {
+    "company" : {
+      "isClient" : true,
+      "isSupplier" : false,
+      "name": "Jurica Lihtar d.o.o.",
+      "oib": "36584976517",
+      "eori" : "-",
+      "vat" : "-",
+      "iban": "-",
+      "address" : {
+        "street" : "Cirkovljanska ulica 1",
+        "city" : "Zagreb",
+        "country" : "Hrvatska"
+      },
+      "contactPersons" :
+      [
+        {"firstName": "Jurica",
+          "lastName" : "Lihtar",
+          "phoneNumber": "",
+          "mobilePhoneNumber": "",
+          "email": ""
+        }
+      ]
+    }
+  },
+  {
+    "company" : {
+      "isClient" : false,
+      "isSupplier" : true,
+      "name": "Pero Perić d.o.o.",
+      "oib": "36584976517",
+      "eori" : "-",
+      "vat" : "-",
+      "iban": "HR1451841858184",
+      "address" : {
+        "street" : "Zagrebačka cesta 102",
+        "city" : "Zagreb",
+        "country" : "Hrvatska"
+      },
+      "contactPersons" :
+      [
+        {"firstName": "Pero",
+          "lastName" : "Peric",
+          "phoneNumber": "01564555",
+          "mobilePhoneNumber": "0915464684",
+          "email": "pero.peric@peric.hr"
+        },
+        {"firstName": "Ivo",
+          "lastName" : "Peric",
+          "phoneNumber": "01564555",
+          "mobilePhoneNumber": "0951321321",
+          "email": "ivo.peric@peric.hr"
+        },
+        {"firstName": "Marko",
+          "lastName" : "Marić",
+          "phoneNumber": "01564555",
+          "mobilePhoneNumber": "0984163156",
+          "email": "marko.maric@peric.hr"
+        },
+        {"firstName": "Ante",
+          "lastName" : "Antić",
+          "phoneNumber": "01564555",
+          "mobilePhoneNumber": "",
+          "email": "ante.antic@peric.hr"
+        }
+      ]
+    }
+  }
+]
